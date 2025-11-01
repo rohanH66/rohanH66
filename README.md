@@ -1,8 +1,8 @@
-# hello! i'm rohan hablani 👋
+# hello! i'm rohan hablani 👋  
 
-I’m an aspiring high school student, biomedical engineer, and student researcher interested in how **biological systems and electronics** can intersect to make life better , whether that’s through regenerative materials, cardiac microtissue modeling, or active noise-cancelling systems.  
+I’m an aspiring high school student, biomedical engineer, and student researcher interested in how **biological systems and electronics** can intersect to make life better, whether that’s through regenerative biomaterials, cardiac microtissues, or active noise-cancelling systems.  
 
-I enjoy deconstructing real-world problems and constructing solutions that end both with measurable results and a noticable impact in someone's life. Every design i’ve made, from microfluidic scaffolds to competitive robots, follows the same philosophy: **to keep pushing the boundaries of what's possible, and to make a difference while doing so.**
+I enjoy deconstructing real-world problems and constructing solutions that end both with measurable results and a noticeable impact on someone’s life. Every design I’ve made, from microfluidic scaffolds to competitive robots, follows the same philosophy: **to keep pushing the boundaries of what's possible, and to make a difference while doing so.**  
 
 enjoy my github :)
 
