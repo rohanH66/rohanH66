@@ -1,8 +1,10 @@
 # hello! i'm rohan hablani 👋
 
-i’m an aspiring high school student, biomedical engineer, and student researcher interested in how **biological systems and electronics** can intersect to make life better , whether that’s through regenerative materials, cardiac microtissue modeling, or active noise-cancelling systems.  
+I’m an aspiring high school student, biomedical engineer, and student researcher interested in how **biological systems and electronics** can intersect to make life better , whether that’s through regenerative materials, cardiac microtissue modeling, or active noise-cancelling systems.  
 
-every design i’ve made, from microfluidic scaffolds to competitive robots, follows the same philosophy: **to keep pushing the boundaries of what's possible.**
+I enjoy deconstructing real-world problems and constructing solutions that end both with measurable results and a noticable impact in someone's life. Every design i’ve made, from microfluidic scaffolds to competitive robots, follows the same philosophy: **to keep pushing the boundaries of what's possible, and to make a difference while doing so.**
+
+enjoy my github :)
 
 <!--
 **rohanH66/rohanH66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
