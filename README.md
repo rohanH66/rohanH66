@@ -1,4 +1,8 @@
-## Hi there 👋
+# hello! i'm rohan hablani 👋
+
+I’m an engineer and researcher interested in how **biological systems and electronics** can intersect to make life better, whether that’s through regenerative materials, cardiac microtissue modeling, or active noise-cancelling systems.  
+
+I like building projects that start with a real-world problem and end with measurable results. Every design I’ve made, from microfluidic scaffolds to competitive robots, comes from the same philosophy: **to keep pushing the boundaries of what's possible.**
 
 <!--
 **rohanH66/rohanH66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
